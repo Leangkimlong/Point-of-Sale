@@ -1,0 +1,18 @@
+// Laravel Login/Register
+1. // install laravel ui into our project
+composer require laravel/ui
+2. // Generate basic scaffolding
+php artisan ui react
+3. // Generate login / registrayion scaffolding
+php artisan ui react --auth
+4. // then run 
+npm install && npm run dev
+
+// Admin Template (adminLTE)
+1. // install via npm
+npm install admin-lte@^3.2 --save
+
+
+// FontAwesome 
+1. // command to install to project
+npm i @FontAwesome
